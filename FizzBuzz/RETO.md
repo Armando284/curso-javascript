@@ -1,0 +1,3 @@
+# Reto
+
+Tienes un input de texto que al usuario entrar cada letra activa una llamada a una funcion que a su vez llama una API externa. Pero esa API consume recursos y por tanto con cada llamada cuesta mas. Debes crear una funcion que permita llamar a la API, no con cada caracter que cambie, sino solo cuando el usuario pare de escribir por 300 milisegundos ya que este seria un buen tiempo para saber que el usuario ha escrito un valor significativo y esta esperando respuesta.
