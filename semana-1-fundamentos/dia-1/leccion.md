@@ -110,9 +110,11 @@ let apellido;                    // No tiene valor asignado
 
 // Null
 const telefono = null;           // Valor vacío intencional
+```
 
-6. Console.log() - Nuestra herramienta principaljs
+### 6. Console.log() - Nuestra herramienta principal
 
+```JavaScript
 console.log("Hola mundo");
 console.log("Nombre:", nombre);
 console.log("Edad:", edad, "- Estudiante:", esEstudiante);
