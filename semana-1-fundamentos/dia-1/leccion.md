@@ -141,5 +141,5 @@ console.log("Nueva ciudad:", ciudad);
 ¡Excelente trabajo!
 Has completado la lección teórica del Día 1.
 
-Siguiente paso: Completa los ejercicios del Día 1 en el archivo dia-1-ejercicios.md
+Siguiente paso: Completa los ejercicios del Día 1 en el [archivo](./ejercicios.md).
 
